@@ -17,7 +17,6 @@ Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto deci
 
  */
 
-
 import java.io.IOException;
 import java.util.Scanner;
 
